@@ -1,7 +1,7 @@
 'use strict';
 
 const key2 = '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';
-const key3 = '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';
+const key3 = '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';
 const input = document.querySelector('input');
 const btn = document.querySelector('.generate');
 const img = document.querySelector('img');
